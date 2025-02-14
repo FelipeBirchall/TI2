@@ -8,8 +8,8 @@ Centralizar todo o material produzido durante o semestre, facilitando o acompanh
 ## Estrutura do Repositório
 O repositório está organizado da seguinte forma:
 
-- **/exercicios**: Pasta dedicada aos exercícios práticos da disciplina.
-- **/sprints**: Pasta contendo as sprints do trabalho principal, com documentação e códigos relacionados.
+- **Exercicios**: Pasta dedicada aos exercícios práticos da disciplina.
+- **Sprints**: Pasta contendo as sprints do trabalho principal, com documentação e códigos relacionados.
 
 ## Tecnologias Utilizadas
 - Linguagem de programação: [Java]
